@@ -1,0 +1,15 @@
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe.config
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.exe
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\bin\Debug\QL_KhoHang.pdb
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csprojAssemblyReference.cache
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.fDonVi.resources
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.fAdmin.resources
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.Properties.Resources.resources
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.csproj.GenerateResource.cache
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.exe
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.pdb
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.fSuaMatHang.resources
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.fSuaNhaCungCap.resources
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.fSuaNhanVien.resources
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.fSuaKhachHang.resources
+C:\Users\noi\Desktop\KhoHang\QL_KhoHang\QL_KhoHang\obj\Debug\QL_KhoHang.fHome.resources
